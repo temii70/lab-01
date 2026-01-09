@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Temi Otun`
+- **CCID:** `otun`
 
 ## References and Resources
 

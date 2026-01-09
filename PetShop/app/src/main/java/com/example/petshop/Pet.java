@@ -2,7 +2,7 @@ package com.example.petshop;
 
 import java.util.Date;
 
-public class Pet {
+public abstract class Pet { //pet is now the parent class
     private String name;
     private Date birthDate;
 
@@ -34,6 +34,9 @@ public class Pet {
         this.name = name; //set objects name to the value passed in
 
     }
+
+        public abstract String speak();
+
 
 }
 
